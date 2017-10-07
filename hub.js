@@ -9,7 +9,7 @@ if (name !== "Kim") {
     alert("Please Enter Your name");
 }
 
-if (name === "Kim") {
+if (name === "Smokey Johnson") {
     alert("Welcome, " + response);
 }
 
