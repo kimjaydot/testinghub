@@ -6,13 +6,13 @@ var number = 2 + 2 ;
 
 alert("Hi, " + response);
 
-// if (name !== "Kim") {
-//     alert("Please Enter Your name");
-// }
+if (name !== "Kim") {
+    alert("Please Enter Your name");
+}
 
-// if (name === "Kim") {
-//     alert("Welcome, " + number);
-// }
+if (name === "Kim") {
+    alert("Welcome, " + number);
+}
 
 // alert(welcome);
 // alert(number);
