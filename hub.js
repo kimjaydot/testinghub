@@ -3,7 +3,7 @@ var response = name;
 var welcome = "Welcome to testing hub!";
 var number = 2 + 2 ;
 
-
+alert("Hello, " + response);
 
 if (name !== "Kim") {
     alert("Please Enter Your name");
