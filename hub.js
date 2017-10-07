@@ -6,5 +6,9 @@ if (name !== "Kim") {
     alert("Please Enter Your name");
 }
 
+if (name === "Kim") {
+    alert("Welcome, " + number);
+}
+
 // alert(welcome);
 // alert(number);
